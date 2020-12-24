@@ -1,5 +1,5 @@
 # Self-Driving-Car
-DISCLAIMER - This project is purely for knowledge purpose.It should not be used ofr any real-life trainingmodelf for autonomous vehicles.
+DISCLAIMER - This project is purely for knowledge purpose. It should not be used for any real-life training model for autonomous vehicles.
 
 **Description**
 It is a supervised regression problem between the steering angles and the road images in front of a car. The network is based on The [NVIDIA model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf).
