@@ -37,4 +37,4 @@ python test.py model.h5
 python train_model.ipynb
 ```
 
-To understand the the model architecture in detail go through the **Final-Report**
+To understand the the model architecture in detail go through the **[Final-Report](https://github.com/Nikhil9786/Self-Driving-Car/blob/master/Final-Report.pdf)**
