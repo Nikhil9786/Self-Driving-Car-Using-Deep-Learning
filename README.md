@@ -21,7 +21,9 @@ You will need anaconda to run the model.
 
 **Creating an environment in Anaconda**
 
-inline 'conda env create -f environment.yml'
+'''
+conda env create -f environment.yml
+'''
 
 **running the pre-trained model**
 
