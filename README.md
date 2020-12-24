@@ -15,7 +15,8 @@ It is a supervised regression problem between the steering angles and the road i
 * Final Report
 
 
-**How to run the model**
+# **How to run the model**
+
 You will need anaconda tu run the model.
 
 # Creating an environment in Anaconda
