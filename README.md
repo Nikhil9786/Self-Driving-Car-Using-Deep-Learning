@@ -17,15 +17,15 @@ It is a supervised regression problem between the steering angles and the road i
 
 # **How to run the model**
 
-You will need anaconda tu run the model.
+You will need anaconda to run the model.
 
-# Creating an environment in Anaconda
+**Creating an environment in Anaconda**
 conda env create -f environment.yml
 
-# running the pre=trained odel
+**running the pre=trained model**
 python test.py model.h5
 
-# To train the model
+**To train the model**
 python train_model.ipynb
 
 To understand the the model architecture in detail go through the **Final-Report**
